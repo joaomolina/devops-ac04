@@ -1,0 +1,5 @@
+linguage: python
+python:
+  - "3.4"
+scriot:
+  - cd src; python tests.py
