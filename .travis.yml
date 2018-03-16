@@ -1,5 +1,5 @@
-linguage: python
+language: python
 python:
-_"3.4"
+  - "3.4"
 script:
-_cd src; python tests.py
+  - cd src; python testes.py
