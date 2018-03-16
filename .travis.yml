@@ -1,5 +1,5 @@
 linguage: python
 python:
   - "3.4"
-scriot:
+script:
   - cd src; python tests.py
